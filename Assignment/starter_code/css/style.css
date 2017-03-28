@@ -144,5 +144,10 @@ header {
 /*******************************************/
 
 
-
+#catchall {
+    font-size: 38px;
+    margin: 30px;
+    padding: 50px;
+    color: rgba(255,0,0, 1);
+    }
 
